@@ -8,5 +8,5 @@ Python tools to fit linear and polynomial models to galactic rotation curves. De
 
 1. Clone this repository:
    ```bash
-git clone https://github.com/YOUR_USERNAME/rotation-curve-fitting.git
+git clone https://github.com/PepeKike0515/rotation-curve-fitting.git
 cd rotation-curve-fitting
